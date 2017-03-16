@@ -1,6 +1,8 @@
 # LengthOfNumbers
 
+DON'T CODE AND DRY!
 
+![don't dry](https://raw.githubusercontent.com/dimasjt/length_of_numbers/master/dont_dry.jpg)
 
 ## Installation
 
